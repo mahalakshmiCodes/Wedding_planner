@@ -1,0 +1,106 @@
+#crrr1{
+    font-family: "Crimson Text", serif;
+    font-size: 25px;
+    position: relative;
+   color: rgba(92, 51, 51, 0.547);
+}
+#recenrr1{
+     font-family: "Meddon", cursive;
+    font-size: 60px;
+    position: relative;
+    bottom: 80px;
+    right: 80px;
+    color: rgba(92, 51, 51, 0.547);
+}
+.container9{
+    position: relative;
+    left: 650px;
+    bottom: 250px;
+}
+#carlson{
+     color: rgba(92, 51, 51, 0.547);
+     font-family: "Crimson Text", serif;
+     font-size: 18px;
+     position: relative;
+     bottom: 140px;
+     left: 80px;
+}
+.container91{
+    height: 500px;
+    background-color:rgb(79, 102, 79);
+    position: relative;
+    bottom: 250px;
+}
+.container92{
+    display: grid;
+    grid-template-columns: 200px 200px 200px 200px 200px 200px;
+    grid-template-rows: 200px 200px 200px 200px 200px 200px;
+    position: relative;
+    left: 150px;
+    bottom: 850px;
+
+}
+#avala{
+     font-family: "Meddon", cursive;
+     color: white;
+     font-size: 55px ;
+     top: 50px;
+     right: 80px;
+     position: relative;
+}
+#studio{
+    color: white;
+    position: relative;
+    top: 180px;
+    right: 220px;
+    letter-spacing: 10px;
+}
+#address{
+    line-height: 30px;
+    position: relative;
+    top: 140px;
+    right: 140px;
+}
+#address2{
+    line-height: 30px;
+    position: relative;
+    top: 140px;
+    right: 160px;
+}
+#address3{
+    color: white;
+    position: relative;
+    top: 130px;
+    right: 160px;
+}
+#height1{
+    position: relative;
+    bottom: 5px;
+}
+#height2{
+    position: relative;
+    bottom: 6px;
+}
+#mailid{
+    color: white;
+    position: relative;
+    left: 1090px;
+    bottom: 70px;
+}
+#underscore{
+    position: relative;
+    bottom: 7px;
+    left:17px;
+}
+#facebook{
+    position: relative;
+    left: 10px;
+}
+#insta{
+    position: relative;
+    left: 20px;
+}
+#whats{
+    position: relative;
+    left: 30px;
+}

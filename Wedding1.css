@@ -1,0 +1,65 @@
+a{
+    text-decoration-line: none;
+    color: white;
+}
+#s1{
+  font-family: "Meddon", cursive;
+  font-size: 45px;
+  position: relative;
+  right: 70px;
+  bottom: 10px;
+}
+#s2{
+  letter-spacing: 10px; 
+  position: relative;
+  bottom: 25px;
+}
+.b{
+    position: relative;
+    bottom: 630px;
+    left: 300px;
+    display: inline;
+    padding: 25px;
+    font-size: 17px;
+}
+
+span{
+    display: block;
+}
+.b0{
+    position: relative;
+    bottom: 789px;
+    display: inline;
+    padding: 25px;
+    left: 900px;
+}
+#brand{
+    position: relative;
+    bottom: 699px;
+    left: 730px;
+    color: white;
+}
+
+a:hover{
+    text-decoration: underline;
+    position: relative;
+    bottom: -2px;
+    text-decoration-color: azure;
+}
+.n{
+    font-size: 75px;
+    color: white;
+    position: relative;
+     font-family: "Crimson Text", serif;
+    bottom: 500px;
+    text-align: center;
+}
+.quote{
+    font-size: 18px;
+    position: relative;
+    bottom: 500px;
+    text-align: center;
+    color: white;
+    font-family:monospace ;
+}
+

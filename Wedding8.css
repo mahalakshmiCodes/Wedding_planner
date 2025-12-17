@@ -1,0 +1,59 @@
+.container8{
+    height: 1400px;
+    background-color: whitesmoke;
+    position: relative;
+    bottom: 3000px;
+}
+.container81{
+    position: relative;
+    left: 200px;
+    top: 100px;
+}
+.container82{
+    position: relative;
+    left: 750px;
+    bottom: 500px;
+}
+#contme{
+     font-family: "Crimson Text", serif;
+     color: rgba(61, 26, 26, 0.547);
+     font-size: 45px;
+}
+#cele{
+    font-family: "Crimson Text", serif;
+     color: rgba(61, 26, 26, 0.547);
+     width: 38%;   
+     position: relative;
+     bottom: 30px;
+     font-size: 18px;
+     line-height: 30px;
+}
+#name{
+  border: none;                       /* remove all borders */
+  border-bottom: 2px solid #c0c0c071;       /* add only bottom border */
+  outline: none;                       /* remove blue focus outline */
+  background: transparent;            /* remove white background */
+  padding: 8px;                        /* optional spacing */
+  font-size: 16px;                     /* optional font size */
+  color: #000;    
+  width: 600px;   
+  font-family: "Crimson Text", serif;
+     color: rgba(61, 26, 26, 0.547);                  /* text color */
+}
+
+#name:focus {
+  border-bottom-color: #3a3a3a71;        /* optional highlight color */
+}
+#send{
+      font-family: "Crimson Text", serif;
+     color: rgba(61, 26, 26, 0.547);  
+     padding: 8px;
+     padding-left: 30px;
+     padding-right: 30px;
+     padding-top: 7px;
+     padding-bottom: 7px;
+     position: relative;
+     top: 50px;
+     border: 1px solid black;
+     
+}

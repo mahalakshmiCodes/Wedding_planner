@@ -1,0 +1,64 @@
+#cr1{
+    font-family: "Crimson Text", serif;
+    font-size: 25px;
+    position: relative;
+    left: 200px;
+   color: rgba(92, 51, 51, 0.547);
+}
+#recen1{
+     font-family: "Meddon", cursive;
+    font-size: 60px;
+    position: relative;
+    bottom: 80px;
+    color: rgba(92, 51, 51, 0.547);
+}
+.container6{
+    position: relative;
+    bottom: 1900px;
+    left: 500px;
+}
+#flow{
+    position: relative;
+    left: 600px;
+    bottom: 2010px;
+}
+#left{
+    position: relative;
+    bottom: 2350px;
+    width: 26%;
+    line-height: 25px;
+    text-align: justify;
+    left: 980px;
+    font-family: "Crimson Text", serif;
+    color: rgba(61, 26, 26, 0.547);
+}
+#getquote{
+    color: black;
+    padding: 10px;
+    position: relative;
+    top: 30px;
+    border: 1px solid black;
+}
+#lleft{
+    font-size: 25px;
+}
+.container611{
+    position: relative;
+    bottom: 1640px;
+    left: 200px;
+}
+#yess{
+    width: 25%;
+    position: relative;
+    right: 570px;
+}
+
+.container666{
+    position: relative;
+    bottom: 270px;
+}
+#arrow{
+    position: relative;
+    bottom: 45px;
+    left: 300px;
+}
